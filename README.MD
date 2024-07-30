@@ -80,12 +80,7 @@ These some libraries used for the project:
 
 * Receipt example
 
-    Event Title
-    Person 1 : $
-    Person 2 : $
-    Person x : $
-
-    Total : $
+  ![alt text][ReceiptExample]
 
 * Googlesheet:
 
@@ -97,3 +92,4 @@ These some libraries used for the project:
 
 [Googlesheet]: https://github.com/JamesTzh/Trip_Finance_Telegram_Bot/blob/main/Googlesheet%20Template.png
 [Menu]: https://github.com/JamesTzh/Trip_Finance_Telegram_Bot/blob/main/Menu.png
+[ReceiptExample]: https://github.com/JamesTzh/Trip_Finance_Telegram_Bot/blob/main/Receipt%20Example.png
