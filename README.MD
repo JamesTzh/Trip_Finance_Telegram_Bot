@@ -89,9 +89,9 @@ These some libraries used for the project:
 
 * Googlesheet:
 
+  New receipt will be added onto a new row from row 7 onwards.
 ![alt text][Googlesheet]
 
-New receipt will be added onto a new row from row 7 onwards.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
