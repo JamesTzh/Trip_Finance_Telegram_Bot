@@ -64,18 +64,7 @@ These some libraries used for the project:
 ## How it works
 
 * Telegram bot sends a menu message when promted with "/start" command
-
-    Menu message:
-    "Menu:
-    /Deduct - Deduct from wallet
-
-    /Deposit - Deposit to wallet
-
-    /Balance - Check wallet balance
-
-    /Excel - Open Excel
-
-    /End - End session
+  ![alt text][Menu]
 
 * /Deduct:
     Sends a receipt to telegram bot and it will deduct the amount from each person's column in googlesheet
@@ -99,9 +88,11 @@ These some libraries used for the project:
 
 * Googlesheet:
 
-
-
+![alt text][Googlesheet]
 
     New receipt will be added onto a new row from row 7 onwards.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+[Googlesheet]: https://github.com/JamesTzh/Trip_Finance_Telegram_Bot/blob/main/Googlesheet%20Template.png
+[Menu]: https://github.com/JamesTzh/Trip_Finance_Telegram_Bot/blob/main/Menu.png
