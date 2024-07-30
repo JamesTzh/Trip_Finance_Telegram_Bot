@@ -99,12 +99,7 @@ These some libraries used for the project:
 
 * Googlesheet:
 
-    |                                 Accounting                                    |               row 1
-    | -------------:|:-------------:|:-------------:|:-------------:|:-------------:|               row 2
-    |             Names:            |    Person1    |    Person2    |    Personx    |               row 3
-    |           Balance:            |  sum($C$6:$C) |  sum($D$6:$D) |  sum($X$6:$X) |                 .
-    |                                                                               |                 .
-    |     Date:     |     Event:    |                     Amount                    |               row 6
+
 
 
     New receipt will be added onto a new row from row 7 onwards.
