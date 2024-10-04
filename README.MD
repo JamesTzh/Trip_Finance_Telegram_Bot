@@ -84,7 +84,7 @@ These some libraries used for the project:
 
 * Googlesheet:
 
-  New receipt will be added onto a new row from row 7 onwards.
+  New receipt will be added onto a new row from row 6 onwards.
 ![alt text][Googlesheet]
 
 
