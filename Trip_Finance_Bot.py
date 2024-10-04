@@ -16,8 +16,8 @@ load_dotenv()
 Telegram_API_Key = os.getenv('Telegram_API_Key')
 Excel_link = os.getenv('Excel_link')
 gc = gspread.service_account(filename=
-                             "D:/Coding Projects/Trip Finance Telegram Bot/telegram-trip-finance-bot-google-api.json")
-sh = gc.open("Japan Accounting 2024").sheet1
+                             "###")
+sh = gc.open("###").sheet1
 
 
 #states for telegram commands
